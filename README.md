@@ -92,3 +92,14 @@ Before delivery, complete the final validation checklist in section 11 of the ag
 AI-generated annotations require human verification. These instructions do not establish clinical performance and must not be used to independently approve a final clinical classification, diagnose a patient, or generate treatment advice. Historical author classifications and current database assertions should remain separately attributed.
 
 Use public or appropriately de-identified material during development. Do not upload patient identifiers, private clinical records, credentials, or other sensitive information to public repositories or unapproved services. Public availability of an article does not establish permission to redistribute its full text; respect the source's reuse terms.
+## License
+
+Copyright (c) 2026 Janiswhj.
+
+The original documentation and annotation instructions in this repository, including this README and Universal_Genetics_Annotation_Agent.md, are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE) for the full legal text.
+
+You may share and adapt this material, including for commercial purposes, subject to the license terms. When sharing, give appropriate credit, provide a link to the license, and indicate whether changes were made. Attribution must not imply endorsement.
+
+Suggested attribution: "AI-Assisted Hereditary Variant Annotation by Janiswhj, https://github.com/Janiswhj/AI-Assisted-Hereditary-Variant-Annotation, licensed under CC BY 4.0." Indicate any modifications separately.
+
+Third-party articles, excerpts, figures, database content, and other third-party materials are excluded from this license unless explicitly stated otherwise; their respective rights and terms apply. The material is provided without warranties as described in the license. Licensing does not establish clinical validity or constitute clinical approval.
